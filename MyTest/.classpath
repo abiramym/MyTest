@@ -6,32 +6,17 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Cucumber/gherkin-2.12.2.jar">
+	<classpathentry kind="lib" path="E:/Cucumber/cucumber-java-1.2.2.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/selenium-server-standalone-3.141.59.jar">
+	<classpathentry kind="lib" path="E:/Cucumber/cucumber-junit-1.2.2.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Cucumber/cucumber-core-1.2.2.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Cucumber/cucumber-java-1.2.5.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Cucumber/cucumber-junit-1.2.5.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Cucumber/junit-4.13-beta-2.jar">
+	<classpathentry kind="lib" path="E:/Cucumber/junit-4.11.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
