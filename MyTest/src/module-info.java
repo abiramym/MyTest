@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Srinu
- *
- */
-module MyTest {
-}
